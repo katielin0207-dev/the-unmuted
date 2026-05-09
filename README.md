@@ -1,14 +1,16 @@
-# The Unmuted 🛡️
+# 非默 The Unmuted 🛡️
 
 > *让真相不可磨灭，让受害者不再孤身一人。*
+> *Make truth indelible; ensure no survivor stands alone.*
 
+基于 Solana 构建的 Web3 匿名证据库与女性互助系统。                                                                                                        
 Web3-powered anonymous evidence vault and women's mutual-aid system, built on **Solana**.
 
 ---
 
 ## ✨ Features
 
-### ✅ 3.1 Secure Evidence Vault (Live)
+### 🌟 3.1 Secure Evidence Vault (Live)
 - **AES-256-GCM** local encryption — keys never leave your device
 - **Arweave** permanent decentralised storage for encrypted evidence
 - **Solana Memo Program** on-chain timestamp anchoring (no custom contract needed)
@@ -17,11 +19,11 @@ Web3-powered anonymous evidence vault and women's mutual-aid system, built on **
 - Phantom wallet + devnet auto-airdrop (gasless UX)
 - PWA — installable on iOS & Android home screen
 
-### 🔜 3.2 Anonymous Community *(Coming Soon)*
+### 🌟 3.2 Anonymous Community *(Coming Soon)*
 - ZKP identity verification (Sismo / Semaphore)
 - Anonymous geo-fenced danger alerts
 
-### 🔜 3.3 DAO Support *(Coming Soon)*
+### 🌟 3.3 DAO Support *(Coming Soon)*
 - Legal & mental health professional network (SBT-gated)
 - Collective governance of aid disbursement
 
@@ -51,6 +53,11 @@ npm run dev
 
 ---
 
-## 👩‍💻 Team
+## 👩‍💻 团队成员 | Team
+Gu Shi: https://github.com/hesta1218-collab
 
-Built at **WWW6.5 Hackathon 2026** 🏆
+Wendy Wu: https://github.com/DancinWendy
+
+Liz Wu: https://github.com/touhouzigei-crypto
+
+Katie Lin: https://github.com/katielin0207-dev
